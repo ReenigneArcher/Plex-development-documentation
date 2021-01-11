@@ -11,3 +11,5 @@ Plex framework documentation in pdf: https://aws1.discourse-cdn.com/plex/origina
 Plex media api in doc: https://aws1.discourse-cdn.com/plex/original/3X/b/e/beb88d4e77d0ba2546495fb4c7e84b5996fff45e.zip
 
 Trailer metadata: https://forums.plex.tv/t/correct-way-to-add-trailers-to-movie/360564/5
+
+Plex missing from dev docs: https://docs.google.com/document/d/1MyhhTsg5xdDD5LRbOZ5x5QxkmEyXv6rB-22Z7tdpy34/edit
